@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+anthropic
+google-generativeai
+redis
+huggingface_hub
+transformers
+tiktoken
+pydantic
+pydantic-settings
+python-dotenv
+asyncio
+locust
